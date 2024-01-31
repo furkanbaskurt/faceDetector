@@ -1,4 +1,3 @@
-#FACE DETECTOR
 ***This project is made for a homework***
 
 You need to give two inputs:
